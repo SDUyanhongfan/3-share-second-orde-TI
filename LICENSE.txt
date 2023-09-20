@@ -1,4 +1,4 @@
-Copyright (c) 2023, Yanhong Fan, Lixuan Wu,  Lin Huang,  Yuxiang Shi,  Meiqin Wang
+Copyright (c) 2023, Yanhong Fan, Lixuan Wu,  Lin Huang,  Meiqin Wang
 
 All rights reserved
 

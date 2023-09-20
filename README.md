@@ -1,6 +1,6 @@
 # 3-share-second-order-TI
 
-This repository contains the source code and designs of Second-order Threshold Implementations(TI) for the paper "A Fast Search Method for Second-Order Threshold Implementation" 
+This repository contains the source code and designs of second-order Threshold Implementations(TI) for the paper "A Fast Search Method for Second-Order Threshold Implementation" 
 ## Licensing
 Copyright (c) 2023, Yanhong Fan, Lixuan Wu,  Lin Huang,  Yuxiang Shi,  Meiqin Wang
 All rights reserved.

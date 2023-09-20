@@ -1,5 +1,16 @@
 /*
-/*PrinceF 
+* -----------------------------------------------------------------
+* COMPANY : Shandong University
+* AUTHOR  : Yanhong Fan, Lixuan Wu,  Lin Huang,  Yuxiang Shi,  Meiqin Wang
+* DOCUMENT: "A Fast Search Method for Second-Order Threshold Implementation"  
+* -----------------------------------------------------------------
+*
+* Copyright c 2023, Yanhong Fan, Lixuan Wu,  Lin Huang,  Yuxiang Shi,  Meiqin Wang
+*
+* All rights reserved.
+* Please see LICENSE and README for license and further instructions.
+*/
+/*PrinceF*/
 
 f0=d; f1=c,f2=cd+b+1,f3=db+a+1;
 
